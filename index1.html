@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>MoodMate To‑Do</title>
+  <link rel="stylesheet" href="style1.css">
+</head>
+<body>
+  <div class="app">
+    <h1>🧠 MoodMate To‑Do List</h1>
+    <p class="subtitle">Organize tasks by emotion and track your mood flow!</p>
+
+    <div class="input-area">
+      <input type="text" id="task-input" placeholder="Add a new task...">
+      <select id="mood-select">
+        <option value="happy">😊 Happy</option>
+        <option value="calm">😌 Calm</option>
+        <option value="stressed">😫 Stressed</option>
+        <option value="excited">🤩 Excited</option>
+      </select>
+      <button id="add-btn">Add</button>
+    </div>
+
+    <ul id="task-list"></ul>
+
+    <div class="stats-panel">
+      <h3>Mood Stats</h3>
+      <div id="mood-stats"></div>
+    </div>
+  </div>
+
+  <script src="script1.js"></script>
+</body>
+</html>
