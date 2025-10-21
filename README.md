@@ -4,21 +4,21 @@ MoodMate To-Do List  is an emotion-based to-do list web application built using 
 The app also provides mood-based statistics and visual feedback, such as confetti animations on task completion, making task management more interactive and engaging.
 
 **Features**
-Add tasks with associated emotions (happy, calm, stressed, excited).
+*Add tasks with associated emotions (happy, calm, stressed, excited).
 
-Dynamic background color changes reflecting mood trends.
+*Dynamic background color changes reflecting mood trends.
 
-Completion toggle with visual feedback animation.
+*Completion toggle with visual feedback animation.
 
-Remove tasks individually.
+*Remove tasks individually.
 
-Mood statistics showing the distribution of task emotions.
+*Mood statistics showing the distribution of task emotions.
 
-Data persistence using localStorage to remember tasks and moods after browser reloads.
+*Data persistence using localStorage to remember tasks and moods after browser reloads.
 
-Fully front-end — no libraries or frameworks required.
+*Fully front-end — no libraries or frameworks required.
 
 **Prerequisites**
-Modern web browser (Chrome, Firefox, Edge)
+1)Modern web browser (Chrome, Firefox, Edge)
 
-Optional: VS Code with Live Server extension for development
+#Optional: VS Code with Live Server extension for development
