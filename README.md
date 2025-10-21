@@ -1,5 +1,5 @@
 # ModeMate-To-Do
-MoodMate To-Do List  is an emotion-based to-do list web application built using only vanilla JavaScript, HTML, and CSS. Unlike typical to-do lists, MoodTrack allows users to tag each task with an emotion and dynamically adapts the app’s colors, icons, and overall theme based on the moods associated with tasks. This creates a more expressive and personal task management experience that tracks both productivity and emotional state.
+MoodMate To-Do List  is an emotion-based to-do list web application built using only vanilla JavaScript, HTML, and CSS. Unlike typical to-do lists, MoodMate  allows users to tag each task with an emotion and dynamically adapts the app’s colors, icons, and overall theme based on the moods associated with tasks. This creates a more expressive and personal task management experience that tracks both productivity and emotional state.
 
 The app also provides mood-based statistics and visual feedback, such as confetti animations on task completion, making task management more interactive and engaging.
 
